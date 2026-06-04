@@ -3,9 +3,7 @@
 <h3 align="center">🚀 .NET Full Stack Developer | ASP.NET Core | Angular | SQL Server</h3>
 
 <p align="center">
-  <a href="https://github.com/Raju3009">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%7C+Angular+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;ASP.NET+Core+Developer;Angular+Developer;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -134,15 +132,15 @@ SQL Server | Entity Framework Core | LINQ
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raju3009&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raju3009&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raju3009&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Raju3009&theme=github-dark-blue" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju3009&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju3009&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -150,7 +148,7 @@ SQL Server | Entity Framework Core | LINQ
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raju3009&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raju3009&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
