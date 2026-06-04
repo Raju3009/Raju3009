@@ -132,26 +132,15 @@ SQL Server | Entity Framework Core | LINQ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raju3009&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju3009&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Raju3009&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju3009&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju3009&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raju3009&theme=darkhub&no-frame=true&row=1" />
-</p>
-
----
 
 ## 📈 Profile Views
 
