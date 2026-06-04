@@ -26,81 +26,44 @@
 
 📍 Hyderabad, India
 
-📫 Email: **[rajkatkuri05@gmail.com](mailto:rajkatkuri05@gmail.com)**
-
-🌐 Portfolio: https://wondrous-khapse-cc5b19.netlify.app
-
-💼 LinkedIn: https://www.linkedin.com/in/katkuri-raju0930
-
 ---
 
-## 🚀 Featured Project
-
-### 💰 HomeBudgetAI – AI-Powered Expense Management System
+🚀 Featured Projects
+💰 HomeBudgetAI – AI Powered Expense Management System
+ASP.NET Core Web API
+Angular 21
+SQL Server & PostgreSQL
+JWT Authentication
+Entity Framework Core
+Docker
+Chart.js Analytics Dashboard
+Budget & Goal Tracking
+Reports & Analytics
 
 🔗 Live Demo:
 https://wondrous-khapse-cc5b19.netlify.app/login
 
-🔗 API Swagger:
+🔗 Swagger API:
 https://homebudgetai-fullstack-2.onrender.com/swagger
 
-### Features
+🏥 Hospital Management System Database
+SQL Server
+Stored Procedures
+Functions
+Triggers
+Views
+Indexes
+Joins & Subqueries
+Patient, Doctor & Billing Management
+🌐 Personal Portfolio
+Responsive Portfolio Website
+HTML
+CSS
+JavaScript
+Project Showcase
 
-✅ JWT Authentication
-
-✅ Expense Tracking
-
-✅ Budget Management
-
-✅ Goal Tracking
-
-✅ Reports & Analytics
-
-✅ Chart.js Dashboard
-
-✅ SQL Server & PostgreSQL
-
-✅ Angular Frontend
-
-✅ ASP.NET Core Web API Backend
-
-### Tech Stack
-
-ASP.NET Core • Angular • SQL Server • PostgreSQL • Entity Framework Core • JWT • Docker • GitHub • Render • Netlify
-
----
-
-## 🏥 Hospital Management System Database
-
-### Features
-
-✅ Patients Management
-
-✅ Doctors Management
-
-✅ Departments
-
-✅ Appointments
-
-✅ Billing System
-
-✅ Stored Procedures
-
-✅ Functions
-
-✅ Triggers
-
-✅ Views
-
-✅ Indexes
-
-✅ Joins & Subqueries
-
-### Technologies
-
-SQL Server • SSMS • T-SQL
-
----
+🔗 Portfolio:
+https://wondrous-khapse-cc5b19.netlify.app
 
 ## 💻 Tech Stack
 
@@ -132,26 +95,7 @@ SQL Server | Entity Framework Core | LINQ
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raju3009&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raju3009&layout=compact&theme=radical" />
-</p>
-
----
-
-
-## 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Raju3009&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
