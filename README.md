@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Katkuri%20Raju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Full%20Stack%20Developer&descAlignY=55" />
+</p>
 <h1 align="center">Hi 👋, I'm Katkuri Raju</h1>
 
 <h3 align="center">🚀 .NET Full Stack Developer | ASP.NET Core | Angular | SQL Server</h3>
