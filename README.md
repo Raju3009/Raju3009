@@ -28,42 +28,52 @@
 
 ---
 
-🚀 Featured Projects
-💰 HomeBudgetAI – AI Powered Expense Management System
-ASP.NET Core Web API
-Angular 21
-SQL Server & PostgreSQL
-JWT Authentication
-Entity Framework Core
-Docker
-Chart.js Analytics Dashboard
-Budget & Goal Tracking
-Reports & Analytics
+## 🚀 Featured Projects
 
-🔗 Live Demo:
+### 💰 HomeBudgetAI – AI Powered Expense Management System
+
+* ASP.NET Core Web API
+* Angular 21
+* SQL Server & PostgreSQL
+* JWT Authentication
+* Entity Framework Core
+* Docker
+* Chart.js Analytics Dashboard
+* Budget & Goal Tracking
+* Reports & Analytics
+
+🔗 **Live Demo:**
 https://wondrous-khapse-cc5b19.netlify.app/login
 
-🔗 Swagger API:
+🔗 **Swagger API:**
 https://homebudgetai-fullstack-2.onrender.com/swagger
 
-🏥 Hospital Management System Database
-SQL Server
-Stored Procedures
-Functions
-Triggers
-Views
-Indexes
-Joins & Subqueries
-Patient, Doctor & Billing Management
-🌐 Personal Portfolio
-Responsive Portfolio Website
-HTML
-CSS
-JavaScript
-Project Showcase
+---
 
-🔗 Portfolio:
+### 🏥 Hospital Management System Database
+
+* SQL Server
+* Stored Procedures
+* Functions
+* Triggers
+* Views
+* Indexes
+* Joins & Subqueries
+* Patient, Doctor & Billing Management
+
+---
+
+### 🌐 Personal Portfolio
+
+* Responsive Portfolio Website
+* HTML
+* CSS
+* JavaScript
+* Project Showcase
+
+🔗 **Portfolio:**
 https://wondrous-khapse-cc5b19.netlify.app
+
 
 ## 💻 Tech Stack
 
