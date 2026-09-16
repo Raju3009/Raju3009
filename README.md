@@ -1,130 +1,67 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Katkuri%20Raju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Full%20Stack%20Developer&descAlignY=55" />
-</p>
-<h1 align="center">Hi 👋, I'm Katkuri Raju</h1>
-
-<h3 align="center">🚀 .NET Full Stack Developer | ASP.NET Core | Angular | SQL Server</h3>
+<h1 align="center">Hi, I'm Katkuri Raju</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;ASP.NET+Core+Developer;Angular+Developer;Building+Scalable+Web+Applications" />
+  .NET / C# Developer • ASP.NET Core • Web API • Angular • SQL Server
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/katkuri-raju0930">LinkedIn</a> •
+  <a href="https://wondrous-khapse-cc5b19.netlify.app">Portfolio</a> •
+  <a href="mailto:rajkatkuri05@gmail.com">Email</a>
+</p>
+
+## About Me
+
+I'm a 2025 B.Tech graduate in Artificial Intelligence & Machine Learning focused on building practical web applications with the .NET ecosystem.
+
+- Developing with **C#, ASP.NET Core, Web API, Entity Framework Core, and SQL Server**
+- Working with **Angular, TypeScript, HTML, CSS, and JavaScript** for frontend development
+- Interested in clean application structure, REST APIs, databases, authentication, and full-stack development
+- Based in **Hyderabad, India**
+
+## Featured Projects
+
+### HomeBudgetAI
+
+A full-stack household finance application with an Angular frontend and ASP.NET Core Web API backend.
+
+**Highlights:** JWT authentication, transactions, budgets, goals, reports, analytics dashboards, Entity Framework Core, SQL Server/PostgreSQL support, Docker, and Swagger.
+
+- [Repository](https://github.com/Raju3009/homebudgetai-fullstack)
+- [Live Application](https://wondrous-khapse-cc5b19.netlify.app)
+- [Swagger API](https://homebudgetai-fullstack-2.onrender.com/swagger)
+
+### Hospital Management SQL Project
+
+A SQL Server database project covering hospital data such as patients, doctors, departments, appointments, and billing.
+
+**Concepts:** joins, subqueries, views, stored procedures, functions, triggers, indexes, constraints, and aggregation.
+
+- [Repository](https://github.com/Raju3009/Hospital-Management-SQL-Project)
+
+### Tic-Tac-Toe
+
+A responsive browser game built with HTML, CSS, and JavaScript, including two-player gameplay, turn tracking, win detection, and restart functionality.
+
+- [Repository](https://github.com/Raju3009/Tic-Tac-Toe)
+- [Live Demo](https://raju3009.github.io/Tic-Tac-Toe/)
+
+## Technical Skills
+
+**Backend:** C#, .NET, ASP.NET Core, Web API, Entity Framework Core, LINQ
+
+**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap
+
+**Database:** SQL Server, PostgreSQL, SQLite
+
+**Tools:** Git, GitHub, Docker, Visual Studio, VS Code, Swagger
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/katkuri-raju0930
+- Portfolio: https://wondrous-khapse-cc5b19.netlify.app
+- Email: rajkatkuri05@gmail.com
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 B.Tech (Artificial Intelligence & Machine Learning) Graduate - 2025
-
-💼 Fresher Software Developer passionate about building scalable web applications using ASP.NET Core, Angular, SQL Server, and Entity Framework Core.
-
-🌱 Currently learning:
-
-* Advanced ASP.NET Core
-* Microservices
-* System Design
-* Cloud & DevOps
-
-📍 Hyderabad, India
-
----
-
-## 🚀 Featured Projects
-
-### 💰 HomeBudgetAI – AI Powered Expense Management System
-
-* ASP.NET Core Web API
-* Angular 21
-* SQL Server & PostgreSQL
-* JWT Authentication
-* Entity Framework Core
-* Docker
-* Chart.js Analytics Dashboard
-* Budget & Goal Tracking
-* Reports & Analytics
-
-🔗 **Live Demo:**
-https://wondrous-khapse-cc5b19.netlify.app/login
-
-🔗 **Swagger API:**
-https://homebudgetai-fullstack-2.onrender.com/swagger
-
----
-
-### 🏥 Hospital Management System Database
-
-* SQL Server
-* Stored Procedures
-* Functions
-* Triggers
-* Views
-* Indexes
-* Joins & Subqueries
-* Patient, Doctor & Billing Management
-
----
-
-### 🌐 Personal Portfolio
-
-* Responsive Portfolio Website
-* HTML
-* CSS
-* JavaScript
-* Project Showcase
-
-🔗 **Portfolio:**
-https://wondrous-khapse-cc5b19.netlify.app
-
-
-## 💻 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-SQL Server | Entity Framework Core | LINQ
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</p>
-
----
-
-
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/katkuri-raju0930">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rajkatkuri05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wondrous-khapse-cc5b19.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
----
-
-⭐ "Code. Learn. Build. Improve. Repeat."
-
-🚀 Open to .NET Full Stack Developer Opportunities
+*Building, learning, and improving one project at a time.*
